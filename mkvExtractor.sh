@@ -2,7 +2,7 @@
 # extract audio,video,subtitles,font,chapter dari file mkv
 # perlu di ketahui attachment dalam mkv dimulai dari nomor 1 bukan 0
 # disarankan berada pada direktori yang sama dengan file
-# batasan : untuk h264 video, subtitle hanya ass dan sr
+# batasan : untuk h264 video, subtitle hanya ass dan srt
 
 # check kebutuhan
 DEPEN="mkvextract mkvinfo"
